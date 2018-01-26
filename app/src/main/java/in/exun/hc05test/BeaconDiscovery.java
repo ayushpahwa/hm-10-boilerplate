@@ -23,7 +23,6 @@ import java.util.List;
 
 public class BeaconDiscovery extends AppCompatActivity {
 
-    // LOG TAG
     private static final String TAG = "BeaconDiscovery";
     private static final int PROCESS_RESET = 0;
     private static final int PROCESS_SUCCESS = 1;
